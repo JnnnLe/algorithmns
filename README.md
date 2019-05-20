@@ -1,2 +1,2 @@
-# return-of-algorithmns
+# algorithmns
 Fun toy problems with answers.
